@@ -13,6 +13,18 @@
 		88C8F23B1A85B5B4001DE09B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88C8F23A1A85B5B4001DE09B /* Images.xcassets */; };
 		88C8F23E1A85B5B4001DE09B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88C8F23C1A85B5B4001DE09B /* LaunchScreen.xib */; };
 		88C8F24A1A85B5B4001DE09B /* Week1DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2491A85B5B4001DE09B /* Week1DropboxTests.swift */; };
+		88C8F2541A86B3AF001DE09B /* NewAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2531A86B3AF001DE09B /* NewAccountViewController.swift */; };
+		88C8F2561A86B8FE001DE09B /* Create1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2551A86B8FE001DE09B /* Create1ViewController.swift */; };
+		88C8F2581A86BAC3001DE09B /* Create2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2571A86BAC3001DE09B /* Create2ViewController.swift */; };
+		88C8F25C1A86BC1A001DE09B /* Create3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F25B1A86BC1A001DE09B /* Create3ViewController.swift */; };
+		88C8F25E1A86BC91001DE09B /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F25D1A86BC91001DE09B /* TermsViewController.swift */; };
+		88C8F2601A86BD44001DE09B /* Create4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F25F1A86BD44001DE09B /* Create4ViewController.swift */; };
+		88C8F2631A86C3A4001DE09B /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2621A86C3A4001DE09B /* ForgotPasswordViewController.swift */; };
+		88C8F2651A86C5A3001DE09B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2641A86C5A3001DE09B /* SettingsViewController.swift */; };
+		88C8F2671A86C965001DE09B /* FilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2661A86C965001DE09B /* FilesViewController.swift */; };
+		88C8F2691A86D0A9001DE09B /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F2681A86D0A9001DE09B /* PhotosViewController.swift */; };
+		88C8F26B1A86D0C7001DE09B /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F26A1A86D0C7001DE09B /* FavoritesViewController.swift */; };
+		88C8F26D1A86D411001DE09B /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C8F26C1A86D411001DE09B /* ExistingPhotosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +48,18 @@
 		88C8F2431A85B5B4001DE09B /* Week1DropboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Week1DropboxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C8F2481A85B5B4001DE09B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88C8F2491A85B5B4001DE09B /* Week1DropboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week1DropboxTests.swift; sourceTree = "<group>"; };
+		88C8F2531A86B3AF001DE09B /* NewAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAccountViewController.swift; sourceTree = "<group>"; };
+		88C8F2551A86B8FE001DE09B /* Create1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Create1ViewController.swift; sourceTree = "<group>"; };
+		88C8F2571A86BAC3001DE09B /* Create2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Create2ViewController.swift; sourceTree = "<group>"; };
+		88C8F25B1A86BC1A001DE09B /* Create3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Create3ViewController.swift; sourceTree = "<group>"; };
+		88C8F25D1A86BC91001DE09B /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
+		88C8F25F1A86BD44001DE09B /* Create4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Create4ViewController.swift; sourceTree = "<group>"; };
+		88C8F2621A86C3A4001DE09B /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = "<group>"; };
+		88C8F2641A86C5A3001DE09B /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		88C8F2661A86C965001DE09B /* FilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilesViewController.swift; sourceTree = "<group>"; };
+		88C8F2681A86D0A9001DE09B /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		88C8F26A1A86D0C7001DE09B /* FavoritesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
+		88C8F26C1A86D411001DE09B /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +101,7 @@
 		88C8F2301A85B5B4001DE09B /* Week1Dropbox */ = {
 			isa = PBXGroup;
 			children = (
+				88C8F2611A86BE6D001DE09B /* Code Files */,
 				88C8F2331A85B5B4001DE09B /* AppDelegate.swift */,
 				88C8F2351A85B5B4001DE09B /* ViewController.swift */,
 				88C8F2371A85B5B4001DE09B /* Main.storyboard */,
@@ -110,6 +135,25 @@
 				88C8F2481A85B5B4001DE09B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		88C8F2611A86BE6D001DE09B /* Code Files */ = {
+			isa = PBXGroup;
+			children = (
+				88C8F2661A86C965001DE09B /* FilesViewController.swift */,
+				88C8F2641A86C5A3001DE09B /* SettingsViewController.swift */,
+				88C8F2621A86C3A4001DE09B /* ForgotPasswordViewController.swift */,
+				88C8F25F1A86BD44001DE09B /* Create4ViewController.swift */,
+				88C8F25D1A86BC91001DE09B /* TermsViewController.swift */,
+				88C8F25B1A86BC1A001DE09B /* Create3ViewController.swift */,
+				88C8F2681A86D0A9001DE09B /* PhotosViewController.swift */,
+				88C8F2571A86BAC3001DE09B /* Create2ViewController.swift */,
+				88C8F2551A86B8FE001DE09B /* Create1ViewController.swift */,
+				88C8F26C1A86D411001DE09B /* ExistingPhotosViewController.swift */,
+				88C8F26A1A86D0C7001DE09B /* FavoritesViewController.swift */,
+				88C8F2531A86B3AF001DE09B /* NewAccountViewController.swift */,
+			);
+			name = "Code Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,8 +256,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88C8F26B1A86D0C7001DE09B /* FavoritesViewController.swift in Sources */,
 				88C8F2361A85B5B4001DE09B /* ViewController.swift in Sources */,
+				88C8F25C1A86BC1A001DE09B /* Create3ViewController.swift in Sources */,
 				88C8F2341A85B5B4001DE09B /* AppDelegate.swift in Sources */,
+				88C8F26D1A86D411001DE09B /* ExistingPhotosViewController.swift in Sources */,
+				88C8F2651A86C5A3001DE09B /* SettingsViewController.swift in Sources */,
+				88C8F2561A86B8FE001DE09B /* Create1ViewController.swift in Sources */,
+				88C8F2541A86B3AF001DE09B /* NewAccountViewController.swift in Sources */,
+				88C8F2631A86C3A4001DE09B /* ForgotPasswordViewController.swift in Sources */,
+				88C8F2601A86BD44001DE09B /* Create4ViewController.swift in Sources */,
+				88C8F2671A86C965001DE09B /* FilesViewController.swift in Sources */,
+				88C8F2691A86D0A9001DE09B /* PhotosViewController.swift in Sources */,
+				88C8F2581A86BAC3001DE09B /* Create2ViewController.swift in Sources */,
+				88C8F25E1A86BC91001DE09B /* TermsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,6 +392,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = Week1Dropbox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -346,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = Week1Dropbox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
